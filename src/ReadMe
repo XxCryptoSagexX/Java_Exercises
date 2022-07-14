@@ -1,0 +1,8 @@
+Models
+
+Item(Price)
+	Book			(title, author)
+	Computer		(CPU, memory, disk)
+	Camera			(make)
+	Game			(title, Rating)
+	
